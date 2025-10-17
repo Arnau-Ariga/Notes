@@ -4,24 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "36aab80e1468ab0f",
+        "id": "f42afeecc41fe4dd",
         "type": "tabs",
         "children": [
           {
-            "id": "03266e7bf3303765",
+            "id": "daed2cfd7444fa40",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Test.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "42b79802627f6b47",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Test.canvas",
+                "viewState": {
+                  "x": 0.9199794286674816,
+                  "y": 82.3948171667078,
+                  "zoom": -0.2781939482684625
+                }
+              },
+              "icon": "lucide-layout-dashboard",
               "title": "Test"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Test.md",
+            "file": "Test.canvas",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -117,7 +131,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Test.md",
+            "file": "Test.canvas",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -131,7 +145,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Test.md",
+            "file": "Test.canvas",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -154,8 +168,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "03266e7bf3303765",
+  "active": "42b79802627f6b47",
   "lastOpenFiles": [
-    "Test.md"
+    "Test.md",
+    "Test.canvas"
   ]
 }
